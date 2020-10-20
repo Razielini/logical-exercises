@@ -1,0 +1,18 @@
+{
+  "name": "logical-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Raziel Carvajal <razielco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.5.2",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.5.3"
+  }
+}
